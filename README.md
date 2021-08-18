@@ -9,7 +9,7 @@ Learning : Spring, React
 
 -ing Project : https://github.com/Debaters/DebateOnWeb
 
-need refactor project : https://github.com/OfficeHub/OfficeHubServer-Boot
+need refactor Project : https://github.com/OfficeHub/OfficeHubServer-Boot
 
 
 interest : Machine Learning, AI, Web Full Stack, Algorithms, Security(InforSec)
