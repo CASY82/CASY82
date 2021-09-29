@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+------------------------------------------------
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=repaid110)](https://solved.ac/repaid110/)
+
+------------------------------------------------
 
 Main Language : JAVA
 
