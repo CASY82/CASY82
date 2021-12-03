@@ -8,7 +8,7 @@
 
 Main Language : <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
-Can use Language : <img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=java&logoColor=white">, Python
+Can use Language : <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=java&logoColor=white">, Python
 
 Learning : Spring, React
 
