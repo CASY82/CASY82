@@ -4,6 +4,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=repaid110)](https://solved.ac/repaid110/)
 
+
+2022-01-24 Gold3
 ------------------------------------------------
 
 Main Language : <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
