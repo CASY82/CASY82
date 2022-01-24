@@ -4,7 +4,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=repaid110)](https://solved.ac/repaid110/)
 
-
+2021-12-04 Gold5
+2021-12-23 Gold4
 2022-01-24 Gold3
 
 
