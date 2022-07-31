@@ -20,7 +20,7 @@ Can use Language : <img src="https://img.shields.io/badge/JavaScript-00599C?styl
 Learning : <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">, <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 -ing Project   
-https://github.com/Debaters/DebateOnWeb(   
+https://github.com/Debaters/DebateOnWeb (holding)   
 https://github.com/KoreaSCM
 
 need refactor Project : https://github.com/OfficeHub/OfficeHubServer-Boot
