@@ -13,17 +13,11 @@
 
 ------------------------------------------------
 
-Main Language : <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-
-Can use Language : <img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=JavaScript&logoColor=white">, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-Learning : <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">, <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+Main Stack : <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">, <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+Can use Language : <img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=JavaScript&logoColor=white">, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">, <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 -ing Project   
 https://github.com/MLFrog
-
-need refactor Project : https://github.com/OfficeHub/OfficeHubServer-Boot
-
 
 interest : Machine Learning, AI, Web Full Stack, Algorithms, Security(InforSec)
 
