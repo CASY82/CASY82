@@ -10,6 +10,10 @@
 2022-02-14 Gold2  
 2022-04-06 Gold1
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
+</a>
+
 
 ------------------------------------------------
 
