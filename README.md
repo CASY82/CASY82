@@ -8,7 +8,8 @@
 2021-12-23 Gold4  
 2022-01-24 Gold3    
 2022-02-14 Gold2  
-2022-04-06 Gold1
+2022-04-06 Gold1  
+2025-08-12 Platinum5
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
